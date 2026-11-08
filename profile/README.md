@@ -1,14 +1,14 @@
 <p align="right"><strong>English</strong> &nbsp; / &nbsp; <a href="README.zh-CN.md">简体中文</a></p>
 
 <p align="center">
-  <a href="https://aimia-eai.github.io/"><img src="https://raw.githubusercontent.com/AIMIA-EAI/.github/main/profile/assets/aimia-kalam-horizontal-white.png" width="500" alt="AIMIA Lab · Peking University"></a>
+  <a href="https://aimia-pku.github.io/"><img src="https://raw.githubusercontent.com/AIMIA-PKU/.github/main/profile/assets/aimia-kalam-horizontal-white.png" width="500" alt="AIMIA Lab · Peking University"></a>
 </p>
 
 <p align="center">
-  <a href="https://aimia-eai.github.io/"><strong>Lab website ↗</strong></a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://aimia-eai.github.io/research/">Research outputs</a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://aimia-eai.github.io/people/">Team &amp; culture</a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://aimia-eai.github.io/join/">Join us</a>
+  <a href="https://aimia-pku.github.io/"><strong>Lab website ↗</strong></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://aimia-pku.github.io/research/">Research outputs</a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://aimia-pku.github.io/people/">Team &amp; culture</a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://aimia-pku.github.io/join/">Join us</a>
 </p>
 
 **AIMIA Lab · Peking University Shenzhen Graduate School**, led by [Jie Chen](mailto:jiechen2019@pku.edu.cn). Our research focuses on embodied intelligence, multimodal learning and AI for Science.
@@ -26,17 +26,17 @@
 - **02 · Multimodal**: Image generation and editing, video generation, human motion generation, vision-language understanding and visual grounding.
 - **03 · AI4S**: Protein mutation effect prediction, structure and function modelling, molecular generation and design, virus evolution prediction and medical image analysis.
 
-[Explore our research outputs →](https://aimia-eai.github.io/research/#results)
+[Explore our research outputs →](https://aimia-pku.github.io/research/#results)
 
 ## Open-source list
 
-- **[RT-DETRv4](https://github.com/AIMIA-EAI/RT-DETRv4)** · ECCV 2026 · Real-time object detection · [Paper](https://arxiv.org/abs/2510.25257) · [Issues](https://github.com/AIMIA-EAI/RT-DETRv4/issues)
+- **[RT-DETRv4](https://github.com/AIMIA-PKU/RT-DETRv4)** · ECCV 2026 · Real-time object detection · [Paper](https://arxiv.org/abs/2510.25257) · [Issues](https://github.com/AIMIA-PKU/RT-DETRv4/issues)
 
-[All public repositories →](https://github.com/orgs/AIMIA-EAI/repositories)
+[All public repositories →](https://github.com/orgs/AIMIA-PKU/repositories)
 
 ## Contact & join
 
-[Jie Chen · jiechen2019@pku.edu.cn](mailto:jiechen2019@pku.edu.cn) · [Team & culture](https://aimia-eai.github.io/people/) · [Join us](https://aimia-eai.github.io/join/)
+[Jie Chen · jiechen2019@pku.edu.cn](mailto:jiechen2019@pku.edu.cn) · [Team & culture](https://aimia-pku.github.io/people/) · [Join us](https://aimia-pku.github.io/join/)
 
 ---
 
